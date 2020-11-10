@@ -22,7 +22,7 @@ title: Easy vegan Wednesdays
 description: >- # this means to ignore newlines until "baseurl:"
   Every other Wednesday at 18:30 live cooking on YouTube!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sernaleon.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://evw.sernaleon.com" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 show_excerpts: true
