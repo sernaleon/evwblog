@@ -31,7 +31,7 @@ future: true
 plugins:
   - jekyll-feed
 
-# youtube_username: UCwBTVD1I9xWh_su95dGdVNA
+youtube_username: UCwBTVD1I9xWh_su95dGdVNA
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
