@@ -13,12 +13,12 @@ Do you want to join? Here's the grocery list (serves 2 hungry persons):
 - 1 broccoli
 - 1 cauliflower
 - 3 carrots
-- 1 can (400gr) brown beans (if you use dry one plz cook them before the show)
 - 1 chili pepper
-- 1 can (400ml) coconut milk
 - 2 cloves garlic
+- 1 can (400gr) brown beans (if you use dry one plz cook them before the show)
+- 1 can (400ml) coconut milk
 - Curry powder
-- 200g quinoa
+- 200g white quinoa
 
 This is what I'll use, but of course feel free to make it your way. Add/remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day is about chatting a bit :)
 
