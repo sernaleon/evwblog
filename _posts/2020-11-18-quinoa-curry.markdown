@@ -19,7 +19,7 @@ I'll be using these ingredients for 2+ hungry persons:
 - 1 can (400ml) coconut milk
 - Curry powder
 - 200g white quinoa
-- 30 grams of cashew nuts & pecans.
+- 30 grams of cashew nuts & pecans
 
 This is what I'll use, but of course, feel free to make it your way. Add/remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day is about chatting a bit :)
 
