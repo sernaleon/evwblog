@@ -9,7 +9,7 @@ Next **Wednesday 18-Nov-2020 at 18:30** I'll cook **Quinoa curry**.
 
 Here's the link to the YouTube streaming: [https://youtu.be/iz8y4XdBVKA](https://youtu.be/iz8y4XdBVKA)
 
-I'll be using this ingredients for 2+ hungry persons:
+I'll be using these ingredients for 2+ hungry persons:
 - 1 broccoli
 - 1 cauliflower
 - 3 carrots
