@@ -9,7 +9,9 @@ list_title: "All recipes"
 {% assign post = site.posts.first %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
 
-<h1 class="post-title p-name" itemprop="name headline">{{ post.date | date: date_format }}: {{ post.title | escape }}</h1>
+<h2 class="post-title p-name" itemprop="name headline">
+    <a  href="{{ post.url | relative_url }}">{{ post.date | date: date_format }}: {{ post.title | escape }}</a>
+</h2>
 
 <div class="post-content e-content" itemprop="articleBody">
     {{ post.content }}
