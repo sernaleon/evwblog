@@ -7,9 +7,9 @@ Hi there!
 
 Next **Wednesday 18-Nov-2020 at 18:30** I'll cook **Quinoa curry**. 
 
-Here's the link to the YouTube streaming: https://youtu.be/iz8y4XdBVKA
+Here's the link to the YouTube streaming: [https://youtu.be/iz8y4XdBVKA](https://youtu.be/iz8y4XdBVKA)
 
-Do you want to join? Here's the grocery list (serves 2 hungry persons):
+I'll be using this ingredients for 2+ hungry persons:
 - 1 broccoli
 - 1 cauliflower
 - 3 carrots
@@ -20,6 +20,6 @@ Do you want to join? Here's the grocery list (serves 2 hungry persons):
 - Curry powder
 - 200g white quinoa
 
-This is what I'll use, but of course feel free to make it your way. Add/remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day is about chatting a bit :)
+This is what I'll use, but of course, feel free to make it your way. Add/remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day is about chatting a bit :)
 
 Hope to see you there!
