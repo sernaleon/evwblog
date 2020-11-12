@@ -21,6 +21,6 @@ I'll be using these ingredients for 2+ hungry persons:
 - 200g [white quinoa](https://www.ah.nl/producten/product/wi435967/ah-witte-quinoa){:target="_blank"}
 - 30g of nuts ([cashew](https://www.ah.nl/producten/product/wi458839/ah-cashewnoten-ongezouten){:target="_blank"} & [pecans](https://www.ah.nl/producten/product/wi397901/ah-ongebrande-pecannoten){:target="_blank"})
 
-This is what I'll use, but of course, feel free to make it your way. Add or remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day is about chatting a bit :)
+This is what I'll use, but of course, feel free to make it your way. Add or remove ingredients as you wish, or even cook/do whatever you want while watching the streaming. At the end of the day it's also about chatting a bit :)
 
 Hope to see you there!
